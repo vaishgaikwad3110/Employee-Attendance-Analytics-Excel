@@ -10,7 +10,7 @@ The objective is to transform raw employee attendance records into meaningful HR
 
 ## Dashboard Preview
 
-![Employee Attendance Analytics Dashboard](images/dashboard.png)
+![Employee Attendance Analytics Dashboard](images%3Adashboard.png)
 ## Project Objectives
 
 - Analyse employee attendance patterns across three months.
